@@ -13,3 +13,4 @@
 |           |   *Cookie Bots*        |
 |  Task 4   |   *Sky Clash*          |
 |           |   *Shrinkage Model*    |
+|  Task 5_2 |   *Linux Report*           |
