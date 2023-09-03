@@ -4,6 +4,8 @@
 
 -	I then began my journey with Linux’s terminal commands by running `sudo apt update` and `sudo apt upgrade` to make sure everything is stable and new. I first had to configure the "sudoers" file though, as I was receiving an error `”username” is not in sudoers file`.
 
+-	I also tried the `htop` command to view the resource usage of my VM.
+
 ## Navigating Directories and Files
 
 -	I then used `ls`  to see available files/directories and I opened the “Documents” directory
